@@ -11,11 +11,9 @@ package ed;
  */
 public class ED {
 
-    /**
-     * @param args the command line arguments
-     */
+ public int prueba;
+ 
     public static void main(String[] args) {
-        public int prueba;
     }
     
 }

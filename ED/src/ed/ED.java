@@ -11,7 +11,7 @@ package ed;
  */
 public class ED {
 
- public int prueba;
+ public int prueba2;
  
     public static void main(String[] args) {
     }

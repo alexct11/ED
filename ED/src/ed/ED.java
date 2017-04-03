@@ -12,6 +12,7 @@ package ed;
 public class ED {
 
  public int prueba2;
+ public int prueba3;
  
     public static void main(String[] args) {
     }
